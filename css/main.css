@@ -1,0 +1,76 @@
+* {
+    /* outline: 1px solid red !important;  */
+    font-family: "Verdana", sans-serif;
+    font-size: 16px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1024px;
+    width: 986px;
+}
+
+h1 {
+    font-size: 45px;
+    margin: 47px 0 10px 0;
+    text-align: center;
+    font-weight: 500;
+    color: #666;
+    max-width: 980px;
+    letter-spacing: 1.7px;
+}
+
+.mugpic {
+    margin: 21px 0 0 0;
+    width: 380px;
+    height: 372px;
+}
+
+.featurebox {
+    margin: 29px 0 0 0;
+    border: 1px solid #ccc;
+    width: 376px;
+    height: 225px;
+}
+
+ul {
+    margin: 32px 0 0 35px;
+}
+
+li {
+    line-height: 2em;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 700;
+    color: #f07c17;
+}
+
+.title3 {
+    margin: 30px 0 0 40px;
+    letter-spacing: -0.6px;
+}
+
+.title2 {
+    margin: 0 0 0 4px;
+    letter-spacing: 0;
+}
+
+.bacontxt1 {
+    margin: 30px 0 0 10px;
+    line-height: 2em;
+    color: #666;
+}
+
+.bacontxt2 {
+    margin: 10px 0 0 10px;
+    line-height: 2em;
+    color: #666;
+}
